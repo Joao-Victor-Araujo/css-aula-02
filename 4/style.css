@@ -1,0 +1,16 @@
+a:link{
+    color: darkgreen;
+}
+p::first-letter{
+    font-size: 90px;
+    color: blueviolet;
+}
+a:visited{
+    color: maroon;
+}
+a:hover{
+    color: yellow;
+}
+a:active{
+    color: blue;
+}
